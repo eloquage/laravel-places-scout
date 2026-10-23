@@ -1,8 +1,8 @@
 # Laravel Places Scout
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/illuma-law/laravel-places-scout.svg?style=flat-square)](https://packagist.org/packages/illuma-law/laravel-places-scout)
-[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/illuma-law/laravel-places-scout/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/illuma-law/laravel-places-scout/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub PHPStan Action Status](https://img.shields.io/github/actions/workflow/status/illuma-law/laravel-places-scout/phpstan.yml?branch=main&label=phpstan&style=flat-square)](https://github.com/illuma-law/laravel-places-scout/actions?query=workflow%3Aphpstan+branch%3Amain)
+[![GitHub Tests Action Status](https://img.shields.io/github/actions/workflow/status/eloquage/laravel-places-scout/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/eloquage/laravel-places-scout/actions?query=workflow%3Arun-tests+branch%3Amain)
+[![GitHub PHPStan Action Status](https://img.shields.io/github/actions/workflow/status/eloquage/laravel-places-scout/phpstan.yml?branch=main&label=phpstan&style=flat-square)](https://github.com/eloquage/laravel-places-scout/actions?query=workflow%3Aphpstan+branch%3Amain)
 [![Total Downloads](https://img.shields.io/packagist/dt/illuma-law/laravel-places-scout.svg?style=flat-square)](https://packagist.org/packages/illuma-law/laravel-places-scout)
 
 A fluent Laravel package for interacting with the Google Places API using strictly typed DTOs.
