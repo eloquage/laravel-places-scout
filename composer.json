@@ -1,7 +1,14 @@
 {
     "name": "illuma-law/laravel-places-scout",
     "description": "A fluent Laravel package for interacting with the Google Places API with strongly typed DTOs.",
-    "keywords": ["laravel", "google-places", "places-api", "scout", "dto", "fluent"],
+    "keywords": [
+        "laravel",
+        "google-places",
+        "places-api",
+        "scout",
+        "dto",
+        "fluent"
+    ],
     "homepage": "https://github.com/eloquage/laravel-places-scout",
     "type": "library",
     "license": "MIT",
@@ -33,6 +40,7 @@
     "require-dev": {
         "larastan/larastan": "^3.0",
         "laravel/pint": "^1.21",
+        "mrpunyapal/peststan": "^0.2.12",
         "nunomaduro/collision": "^8.0",
         "orchestra/testbench": "^10.1",
         "pestphp/pest": "^4.0",

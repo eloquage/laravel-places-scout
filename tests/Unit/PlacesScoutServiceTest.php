@@ -326,7 +326,7 @@ it('passes location and radius to text search', function (): void {
         $data = $request->data();
 
         return $data['location'] === '38.7,-9.1'
-            && (int) $data['radius'] === 5000;
+            && $data['radius'] === 5000;
     });
 });
 

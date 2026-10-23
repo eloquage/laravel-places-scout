@@ -60,7 +60,7 @@ vendor/bin/pest tests/Architecture
 
 ## Reporting Security Vulnerabilities
 
-If you discover any security-related issues, please email ai@illuma.law instead of using the issue tracker.
+If you discover any security-related issues, please report it privately using the process in [SECURITY.md](SECURITY.md).
 
 ## Code of Conduct
 
