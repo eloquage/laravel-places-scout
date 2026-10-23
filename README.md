@@ -9,7 +9,7 @@ returned as typed data objects.
 [![Latest Version](https://img.shields.io/packagist/v/illuma-law/laravel-places-scout)](https://packagist.org/packages/illuma-law/laravel-places-scout)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
-Requires PHP 8.3+ and Laravel 11, 12, or 13.
+Requires PHP 8.3+ and Laravel 12 or 13.
 
 ## Install
 
