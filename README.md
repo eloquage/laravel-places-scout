@@ -6,7 +6,7 @@ A Laravel client for Google Places Text Search and Place Details. Responses are
 returned as typed data objects.
 
 [![Tests](https://github.com/eloquage/laravel-places-scout/actions/workflows/run-tests.yml/badge.svg)](https://github.com/eloquage/laravel-places-scout/actions/workflows/run-tests.yml)
-[![Latest Version](https://img.shields.io/packagist/v/illuma-law/laravel-places-scout)](https://packagist.org/packages/illuma-law/laravel-places-scout)
+[![Latest Version](https://img.shields.io/packagist/v/eloquage/laravel-places-scout)](https://packagist.org/packages/eloquage/laravel-places-scout)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 Requires PHP 8.3+ and Laravel 12 or 13.
@@ -14,7 +14,7 @@ Requires PHP 8.3+ and Laravel 12 or 13.
 ## Install
 
 ```bash
-composer require illuma-law/laravel-places-scout
+composer require eloquage/laravel-places-scout
 php artisan vendor:publish --tag=places-scout-config
 ```
 

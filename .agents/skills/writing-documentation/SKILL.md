@@ -7,7 +7,7 @@ metadata:
 
 # Writing and documentation
 
-Write documentation for `illuma-law/laravel-places-scout` (A fluent Laravel package for interacting with the Google Places API with strongly typed DTOs.) that lets the intended reader complete a concrete task.
+Write documentation for `eloquage/laravel-places-scout` (A fluent Laravel package for interacting with the Google Places API with strongly typed DTOs.) that lets the intended reader complete a concrete task.
 
 ## Source and structure
 
