@@ -7,7 +7,7 @@ metadata:
 
 # Laravel package development
 
-Use this skill when changing this Composer package: `illuma-law/laravel-places-scout` — A fluent Laravel package for interacting with the Google Places API with strongly typed DTOs.
+Use this skill when changing this Composer package: `eloquage/laravel-places-scout` — A fluent Laravel package for interacting with the Google Places API with strongly typed DTOs.
 
 ## Package context
 

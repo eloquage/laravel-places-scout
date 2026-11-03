@@ -1,5 +1,5 @@
 {
-    "name": "illuma-law/laravel-places-scout",
+    "name": "eloquage/laravel-places-scout",
     "description": "A fluent Laravel package for interacting with the Google Places API with strongly typed DTOs.",
     "keywords": [
         "laravel",

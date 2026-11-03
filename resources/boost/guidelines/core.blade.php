@@ -1,4 +1,4 @@
-# illuma-law/laravel-places-scout
+# eloquage/laravel-places-scout
 
 Interacting with Google Places API using strongly typed DTOs.
 

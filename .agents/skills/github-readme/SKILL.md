@@ -7,7 +7,7 @@ metadata:
 
 # GitHub README
 
-For `illuma-law/laravel-places-scout` (A fluent Laravel package for interacting with the Google Places API with strongly typed DTOs.), make the README useful to a developer deciding whether to install the package and then trying it in a real application.
+For `eloquage/laravel-places-scout` (A fluent Laravel package for interacting with the Google Places API with strongly typed DTOs.), make the README useful to a developer deciding whether to install the package and then trying it in a real application.
 
 ## Ground every claim
 
